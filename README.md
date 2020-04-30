@@ -7,23 +7,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/jaredible/Fresh-API">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Fresh API</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Node.js RESTful API for the Fresh application! 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jaredible/Fresh-API/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -121,8 +117,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * **Duc Ngo** - *Frontend Developer* - [GitHub](https://github.com/zegster)
 * **Jared Diehl** - *Backend Developer* - [GitHub](https://github.com/jaredible/)
 * **John Soderstrom** - *Database Developer* - [GitHub](https://github.com/SoderstromJohnR)
-
-GitHub Repository: [Fresh API](https://github.com/jaredible/Fresh-API)
 
 
 
