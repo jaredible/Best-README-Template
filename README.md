@@ -174,6 +174,7 @@ GitHub Repository: [Fresh API](https://github.com/jaredible/Fresh-API)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Choose an Open Source License](https://choosealicense.com)
 
 
 
