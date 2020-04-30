@@ -14,7 +14,7 @@
   <h3 align="center">Fresh API</h3>
 
   <p align="center">
-    A Node.js RESTful API for the Fresh application! 
+    A Node.js API for the Fresh application! 
     <br />
     <a href="https://github.com/jaredible/Fresh-API/wiki"><strong>Explore the docs »</strong></a>
     <br />
